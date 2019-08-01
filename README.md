@@ -3,9 +3,9 @@ This programming assignment is to write a simple shell.
 The shell accepts user commands and then executes each command in a separate process.
 
 The shell supports 3 different types of commands:
-- System commands,
-- Built-in commands,
-- Pipe operator.
+-- System commands,
+-- Built-in commands,
+-- Pipe operator.
 
 ## System Commands
   It will take the command as input and will execute that in a new process. When the program
