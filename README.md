@@ -1,7 +1,7 @@
 # Operating Systems
 
 ## Project #1
-  This programming assignment is to write a simple shell.
+    This programming assignment is to write a simple shell.
 The shell accepts user commands and then executes each command in a separate process.
 
 The shell supports 3 different types of commands:
@@ -26,5 +26,5 @@ The shell supports 3 different types of commands:
 For a pipe in the command line, take care of connecting stdout of the left command to stdin of the command following the "|".
 
 ## Project #2
-  This programming assignment is to benefit from pthread library in C.
+    This programming assignment is to benefit from pthread library in C.
 Modification of a simple text file such that changing into capital, putting dashes.
