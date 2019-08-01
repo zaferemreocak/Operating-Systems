@@ -8,7 +8,7 @@ The shell supports 3 different types of commands:
 - Pipe operator.
 
 ## System Commands
-    It will take the command as input and will execute that in a new process. When the program
+  It will take the command as input and will execute that in a new process. When the program
   gets the program name, it will create a new process using fork system call, and the new
   process (child) will execute the program.
 
@@ -21,4 +21,4 @@ The shell supports 3 different types of commands:
   - exit: Terminate your shell process.
   
 ## Pipe Operator
-  For a pipe in the command line, take care of connecting stdout of the left command to stdin of the command following the "|".
+For a pipe in the command line, take care of connecting stdout of the left command to stdin of the command following the "|".
