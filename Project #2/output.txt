@@ -1,0 +1,43 @@
+Reader-Thread	It showed a slight strain, but the Giants chose to be extra cau	-Reader-Thread	Despite declining revenue, Private Business CEO Henry Baroco sa	-Reader-Thread	He averaged 11.4 points and 4.0 assists per game.
+	-Reader-Thread	Stephanie Kaput had the lone goal for the Mighty Macs.
+	-Reader-Thread	While that number was the same in the Fall survey, only 46% of 	-Reader-Thread	Microsoft is preparing one final update to Windows 2000.
+	-Reader-Thread	Was this an independent initiative or was the US behind it?
+	-Reader-Thread	The first field testing was likely to be in Cyprus against rece	-Reader-Thread	Mr Wall said he hoped a film theatre would be part of the leisu	-Reader-Thread	They will be interviewed from 10 a.m. until noon on Thursday, M	-Reader-Thread	We can only take the best player who is available.
+	-Reader-Thread	Rounding first, Hinske pumped his fist when it landed in the se	-Reader-Thread	"I fell in love with the sport almost immediately."
+	-Reader-Thread	"Yeah, it is special," said Woods, who shot one-under 71 in the	-Reader-Thread	It will not be published.
+	-Reader-Thread	As Matthews neared graduation in 1984, he said he was uncertain	-Reader-Thread	Be'er Sheva's only hope of survival is to beat champion Maccabi	-Replacer-Thread	It showed a slight strain, but the Giants chose to be extra cau	It-showed-a-slight-strain,-but-the-Giants-chose-to-be-extra-cauReplacer-Thread	Despite declining revenue, Private Business CEO Henry Baroco sa	Despite-declining-revenue,-Private-Business-CEO-Henry-Baroco-saReplacer-Thread	He averaged 11.4 points and 4.0 assists per game.
+	He-averaged-11.4-points-and-4.0-assists-per-game.
+Replacer-Thread	Stephanie Kaput had the lone goal for the Mighty Macs.
+	Stephanie-Kaput-had-the-lone-goal-for-the-Mighty-Macs.
+Replacer-Thread	While that number was the same in the Fall survey, only 46% of 	While-that-number-was-the-same-in-the-Fall-survey,-only-46%-of-Replacer-Thread	Microsoft is preparing one final update to Windows 2000.
+	Microsoft-is-preparing-one-final-update-to-Windows-2000.
+Replacer-Thread	Was this an independent initiative or was the US behind it?
+	Was-this-an-independent-initiative-or-was-the-US-behind-it?
+Replacer-Thread	The first field testing was likely to be in Cyprus against rece	The-first-field-testing-was-likely-to-be-in-Cyprus-against-receReplacer-Thread	Mr Wall said he hoped a film theatre would be part of the leisu	Mr-Wall-said-he-hoped-a-film-theatre-would-be-part-of-the-leisuReplacer-Thread	They will be interviewed from 10 a.m. until noon on Thursday, M	They-will-be-interviewed-from-10-a.m.-until-noon-on-Thursday,-MReplacer-Thread	We can only take the best player who is available.
+	We-can-only-take-the-best-player-who-is-available.
+Replacer-Thread	Rounding first, Hinske pumped his fist when it landed in the se	Rounding-first,-Hinske-pumped-his-fist-when-it-landed-in-the-seReplacer-Thread	"I fell in love with the sport almost immediately."
+	"I-fell-in-love-with-the-sport-almost-immediately."
+Replacer-Thread	"Yeah, it is special," said Woods, who shot one-under 71 in the	"Yeah,-it-is-special,"-said-Woods,-who-shot-one-under-71-in-theReplacer-Thread	It will not be published.
+	It-will-not-be-published.
+Replacer-Thread	As Matthews neared graduation in 1984, he said he was uncertain	As-Matthews-neared-graduation-in-1984,-he-said-he-was-uncertainReplacer-Thread	Be'er Sheva's only hope of survival is to beat champion Maccabi	Be'er-Sheva's-only-hope-of-survival-is-to-beat-champion-MaccabiUpper-Thread	It-showed-a-slight-strain,-but-the-Giants-chose-to-be-extra-cau	IT-SHOWED-A-SLIGHT-STRAIN,-BUT-THE-GIANTS-CHOSE-TO-BE-EXTRA-CAUUpper-Thread	Despite-declining-revenue,-Private-Business-CEO-Henry-Baroco-sa	DESPITE-DECLINING-REVENUE,-PRIVATE-BUSINESS-CEO-HENRY-BAROCO-SAUpper-Thread	He-averaged-11.4-points-and-4.0-assists-per-game.
+	HE-AVERAGED-11.4-POINTS-AND-4.0-ASSISTS-PER-GAME.
+Upper-Thread	Stephanie-Kaput-had-the-lone-goal-for-the-Mighty-Macs.
+	STEPHANIE-KAPUT-HAD-THE-LONE-GOAL-FOR-THE-MIGHTY-MACS.
+Upper-Thread	While-that-number-was-the-same-in-the-Fall-survey,-only-46%-of-	WHILE-THAT-NUMBER-WAS-THE-SAME-IN-THE-FALL-SURVEY,-ONLY-46%-OF-Upper-Thread	Microsoft-is-preparing-one-final-update-to-Windows-2000.
+	MICROSOFT-IS-PREPARING-ONE-FINAL-UPDATE-TO-WINDOWS-2000.
+Upper-Thread	Was-this-an-independent-initiative-or-was-the-US-behind-it?
+	WAS-THIS-AN-INDEPENDENT-INITIATIVE-OR-WAS-THE-US-BEHIND-IT?
+Upper-Thread	The-first-field-testing-was-likely-to-be-in-Cyprus-against-rece	THE-FIRST-FIELD-TESTING-WAS-LIKELY-TO-BE-IN-CYPRUS-AGAINST-RECEUpper-Thread	Mr-Wall-said-he-hoped-a-film-theatre-would-be-part-of-the-leisu	MR-WALL-SAID-HE-HOPED-A-FILM-THEATRE-WOULD-BE-PART-OF-THE-LEISUUpper-Thread	They-will-be-interviewed-from-10-a.m.-until-noon-on-Thursday,-M	THEY-WILL-BE-INTERVIEWED-FROM-10-A.M.-UNTIL-NOON-ON-THURSDAY,-MUpper-Thread	We-can-only-take-the-best-player-who-is-available.
+	WE-CAN-ONLY-TAKE-THE-BEST-PLAYER-WHO-IS-AVAILABLE.
+Upper-Thread	Rounding-first,-Hinske-pumped-his-fist-when-it-landed-in-the-se	ROUNDING-FIRST,-HINSKE-PUMPED-HIS-FIST-WHEN-IT-LANDED-IN-THE-SEUpper-Thread	"I-fell-in-love-with-the-sport-almost-immediately."
+	"I-FELL-IN-LOVE-WITH-THE-SPORT-ALMOST-IMMEDIATELY."
+Upper-Thread	"Yeah,-it-is-special,"-said-Woods,-who-shot-one-under-71-in-the	"YEAH,-IT-IS-SPECIAL,"-SAID-WOODS,-WHO-SHOT-ONE-UNDER-71-IN-THEUpper-Thread	It-will-not-be-published.
+	IT-WILL-NOT-BE-PUBLISHED.
+Upper-Thread	As-Matthews-neared-graduation-in-1984,-he-said-he-was-uncertain	AS-MATTHEWS-NEARED-GRADUATION-IN-1984,-HE-SAID-HE-WAS-UNCERTAINUpper-Thread	Be'er-Sheva's-only-hope-of-survival-is-to-beat-champion-Maccabi	BE'ER-SHEVA'S-ONLY-HOPE-OF-SURVIVAL-IS-TO-BEAT-CHAMPION-MACCABIWriter-Thread	IT-SHOWED-A-SLIGHT-STRAIN,-BUT-THE-GIANTS-CHOSE-TO-BE-EXTRA-CAU	-Writer-Thread	DESPITE-DECLINING-REVENUE,-PRIVATE-BUSINESS-CEO-HENRY-BAROCO-SA	-Writer-Thread	HE-AVERAGED-11.4-POINTS-AND-4.0-ASSISTS-PER-GAME.
+	-Writer-Thread	STEPHANIE-KAPUT-HAD-THE-LONE-GOAL-FOR-THE-MIGHTY-MACS.
+	-Writer-Thread	WHILE-THAT-NUMBER-WAS-THE-SAME-IN-THE-FALL-SURVEY,-ONLY-46%-OF-	-Writer-Thread	MICROSOFT-IS-PREPARING-ONE-FINAL-UPDATE-TO-WINDOWS-2000.
+	-Writer-Thread	WAS-THIS-AN-INDEPENDENT-INITIATIVE-OR-WAS-THE-US-BEHIND-IT?
+	-Writer-Thread	THE-FIRST-FIELD-TESTING-WAS-LIKELY-TO-BE-IN-CYPRUS-AGAINST-RECE	-Writer-Thread	MR-WALL-SAID-HE-HOPED-A-FILM-THEATRE-WOULD-BE-PART-OF-THE-LEISU	-Writer-Thread	THEY-WILL-BE-INTERVIEWED-FROM-10-A.M.-UNTIL-NOON-ON-THURSDAY,-M	-Writer-Thread	WE-CAN-ONLY-TAKE-THE-BEST-PLAYER-WHO-IS-AVAILABLE.
+	-Writer-Thread	ROUNDING-FIRST,-HINSKE-PUMPED-HIS-FIST-WHEN-IT-LANDED-IN-THE-SE	-Writer-Thread	"I-FELL-IN-LOVE-WITH-THE-SPORT-ALMOST-IMMEDIATELY."
+	-Writer-Thread	"YEAH,-IT-IS-SPECIAL,"-SAID-WOODS,-WHO-SHOT-ONE-UNDER-71-IN-THE	-Writer-Thread	IT-WILL-NOT-BE-PUBLISHED.
+	-Writer-Thread	AS-MATTHEWS-NEARED-GRADUATION-IN-1984,-HE-SAID-HE-WAS-UNCERTAIN	-Writer-Thread	BE'ER-SHEVA'S-ONLY-HOPE-OF-SURVIVAL-IS-TO-BEAT-CHAMPION-MACCABI	-
