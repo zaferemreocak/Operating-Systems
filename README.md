@@ -27,6 +27,7 @@ For a pipe in the command line, take care of connecting stdout of the left comma
 
 ## Project #2
     This project has been implemented using Python's low level "_thread" API.
-    Usage:  python project_2.py ${location_of_input_file}
+    
+    >>  python project_2.py ${location_of_input_file}
 Modification of a simple text file such that changing into capital, putting dashes between words via threads. Prints out total number of lines to stdout and creates a log file contains whole operation history of all threds.
 There are 4 different queues between each thread's function to put and get a line which is read from input text file. INTERRUPT_SIG is a termination signal that is put into queues when end of file/operation. A thread received this signal exits infinite loop and thread terminates.
